@@ -1,0 +1,2 @@
+# Basic-Animals-Game
+Designing and implementing a simple board game where some farm animals (mouse, turtle, hen, etc.) are on an island with 2 cats. All animals walk and run on the ground (no flying animals). Each animal will be given a set of directions to move around the board.  The implemented concepts: Top down design (modular programming).  Recursive functions.  Object oriented programming (simple classes with overloaded constructors).  Data structures (1D2D) static arrays.  Stream operations (reading input and writing output from and to file streams).     
